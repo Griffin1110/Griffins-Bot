@@ -1,0 +1,11 @@
+{
+  "prefix": "g.",
+  "ownerID": "Owner ID",
+  "bottoken": "Bot Token Here",
+  "mysqlhost": "localhost",
+  "mysqluser": "mysql username",
+  "mysqlpass": "mysql password",
+  "clkey": "INSERT YOUR CLEVERBOT KEY HERE",
+  "cringe": {}, //Honestly I don't know why this is here
+  "lastArgs": "" //I don't know why this is here either
+}
